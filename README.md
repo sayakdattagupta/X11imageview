@@ -1,4 +1,4 @@
-An image viewer for X11 display servers, powered by C++ and the [stb_image.h](https://github.com/nothings/stbi) library for support with PNG, JPEG, BMP and other formats.
+An image viewer for X11 display servers, powered by C++ and the [stb_image.h](https://github.com/nothings/stb) library for support with PNG, JPEG, BMP and other formats.
 
 This is still WIP.
 
